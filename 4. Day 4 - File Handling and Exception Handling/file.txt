@@ -1,0 +1,5 @@
+Writing new text to the file..
+With the help of the with keyword..
+Then closing the file..
+Appending new data to the file..
+Without overwriting the file..

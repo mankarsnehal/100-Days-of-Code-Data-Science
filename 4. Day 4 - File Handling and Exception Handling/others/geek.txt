@@ -1,0 +1,3 @@
+Writing new text to the file..
+With the help of the with keyword..
+Then closing the file..

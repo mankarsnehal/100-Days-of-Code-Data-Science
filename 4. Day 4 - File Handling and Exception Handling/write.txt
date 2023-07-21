@@ -1,0 +1,4 @@
+This is write command
+Write in a the file
+Appending to the file..
+Without overwriting..
