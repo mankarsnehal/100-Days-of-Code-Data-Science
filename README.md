@@ -12,4 +12,4 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 **DAY 4:** File Handling and Exception Handling - Read from and write to files in Python. Learn about exception handling and how to handle errors using try-except blocks.
 
-**DAY 5:** Python Classes and Objects, Class Declaration, Constructor and Destructor, Built-in Class Attributes and Functions, Instance, Class and Static Variables and Functions.
+**DAY 5:** Python Classes and Objects - Class Declaration, Object Instantiation, Constructor and Destructor, Built-in Class Attributes and Functions, Instance, Class and Static Variables and Functions.
