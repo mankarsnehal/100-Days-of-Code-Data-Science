@@ -15,3 +15,5 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 **DAY 5:** Python Classes and Objects - Class Declaration, Object Instantiation, Constructor and Destructor, Built-in Class Attributes and Functions, Instance, Class and Static Variables and Functions.
 
 **DAY 6:** Python OOPs Concepts and Implementation in Python - Data Abstraction, Encapsulation, Inheritance and Polymorphism.
+
+**DAY 7:** Advanced Python Concepts - Higher Order Functions, List Comprehensions, and Regular Expressions (RegEx)
