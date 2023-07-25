@@ -17,3 +17,5 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 **DAY 6:** Python OOPs Concepts and Implementation in Python - Data Abstraction, Encapsulation, Inheritance and Polymorphism.
 
 **DAY 7:** Advanced Python Concepts - Higher Order Functions, List Comprehensions, and Regular Expressions (RegEx)
+
+**DAY 8:** Python Connectivity with MySQL Database - Setting Up MySQL Connection, Executing SQL Queries.
