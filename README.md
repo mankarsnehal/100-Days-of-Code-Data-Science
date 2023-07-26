@@ -19,3 +19,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 **DAY 7:** Advanced Python Concepts - Higher Order Functions, List Comprehensions, and Regular Expressions (RegEx)
 
 **DAY 8:** Python Connectivity with MySQL Database - Setting Up MySQL Connection, Executing SQL Queries.
+
+**DAY 9:** Day 1 of Bank Management System - Database Setup, Python Environment Setup, Database Connectivity, Create Basic Classes, Customer Management.
+
+
