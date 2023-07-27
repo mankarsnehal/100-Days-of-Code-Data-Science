@@ -22,4 +22,6 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 **DAY 9:** Day 1 of Bank Management System - Database Setup, Python Environment Setup, Database Connectivity, Create Basic Classes, Customer Management.
 
+**DAY 10:** Day 2 of Bank Management System - Account Management(Create Account, List Account Details), Basic Error Handling(Apply Validations on Input values), Testing and Debugging(Checking Input value validations).
+
 
