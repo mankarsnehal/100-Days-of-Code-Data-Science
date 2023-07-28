@@ -24,4 +24,6 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 **DAY 10:** Day 2 of Bank Management System - Account Management(Create Account, List Account Details), Basic Error Handling(Apply Validations on Input values), Testing and Debugging(Checking Input value validations).
 
+**DAY 11:** Final Day of Project (Transfer Operations and Final Testing) - Transfer Operation, Final Testing and Documentation, Clean Up and Submission.
+
 
