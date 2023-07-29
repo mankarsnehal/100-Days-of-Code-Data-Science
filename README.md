@@ -26,4 +26,6 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 **DAY 11:** Final Day of Project (Transfer Operations and Final Testing) - Transfer Operation, Final Testing and Documentation, Clean Up and Submission.
 
+**DAY 12:** NumPy Basics and Array Manipulation - Introduction to NumPy, Installing NumPy, Creating NumPy arrays, Array indexing and slicing, Array reshaping and resizing, Stacking and splitting arrays.
+
 
