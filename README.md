@@ -28,4 +28,6 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 **DAY 12:** NumPy Basics and Array Manipulation - Introduction to NumPy, Installing NumPy, Creating NumPy arrays, Array indexing and slicing, Array reshaping and resizing, Stacking and splitting arrays.
 
+**DAY 13:** Mathematical Operations with NumPy - Element-wise Operations, Aggregation Functions, Linear Algebra with NumPy.
+
 
