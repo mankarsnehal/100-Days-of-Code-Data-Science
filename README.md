@@ -16,7 +16,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | [29 ✅] (https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) |
+| 23 | 24 | 25 | 26 | 27 | 28 | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) |
 | 30 | 31 | - | - | - | - | - |
 
 
