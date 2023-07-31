@@ -30,4 +30,6 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 **DAY 13:** Mathematical Operations with NumPy - Element-wise Operations, Aggregation Functions, Linear Algebra with NumPy.
 
+**DAY 14:** Statistics Functions with NumPy - Descriptive statistics, Random number generation, Sorting and searching arrays.
+
 
