@@ -10,46 +10,217 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 ### July 2023
 
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
 | - | - | - | - | - | - | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) |
-| 30 | 31 | - | - | - | - | - |
+| 16 | 17 | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/1.%20Day%201%20-%20Python%20Basics) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/2.%20Day%202%20-%20Functions%20and%20Modules) | [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/3.%20Day%203%20-%20Built-in%20Data%20Structures) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/4.%20Day%204%20-%20File%20Handling%20and%20Exception%20Handling) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/5.%20Day%205%20-%20Python%20Classes%20and%20Objects) |
+| [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/6.%20Day%206%20-%20OOPs%20Concepts%20Implementation%20in%20Python) | [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/7.%20Day%207%20-%20Advanced%20Topics) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/8.%20Day%208%20-%20Python%20MySQL) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/9.%20Day%209%20-%20Day%201%20of%20Project) | [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20Day%202%20of%20Project) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20Project%20Completion) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20NumPy%20Basics) |
+| [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations) | [31 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) | - | - | - | - | - |
+
+
+### August 2023
+
+| Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
+| - | - | - | - | - | - | - |
+| - | - | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 31 | - | - |
 
 
 
 
+---
 
 
-**DAY 1:** Python Basics - control flow statements like if-else conditions and loops.
+## 100 Days of Data Science Code Day-to-Day Progress
 
-**DAY 2:** Functions and Modules - Concept of modules and how to import and use built-in modules as well as create your own.
 
-**DAY 3:** Data Structures - Python's built-in data structures such as lists, tuples, dictionaries, and sets. Also, learn about indexing, slicing, and manipulating these data structures.
+## **DAY 1:** 
 
-**DAY 4:** File Handling and Exception Handling - Read from and write to files in Python. Learn about exception handling and how to handle errors using try-except blocks.
+### Goal: Python Basics 
 
-**DAY 5:** Python Classes and Objects - Class Declaration, Object Instantiation, Constructor and Destructor, Built-in Class Attributes and Functions, Instance, Class and Static Variables and Functions.
+- Control flow statements like if-else conditions and loops.
 
-**DAY 6:** Python OOPs Concepts and Implementation in Python - Data Abstraction, Encapsulation, Inheritance and Polymorphism.
+Github Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/1.%20Day%201%20-%20Python%20Basics)
 
-**DAY 7:** Advanced Python Concepts - Higher Order Functions, List Comprehensions, and Regular Expressions (RegEx)
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7087107462633263104-rura?utm_source=share&utm_medium=member_desktop)
 
-**DAY 8:** Python Connectivity with MySQL Database - Setting Up MySQL Connection, Executing SQL Queries.
+---
 
-**DAY 9:** Day 1 of Bank Management System - Database Setup, Python Environment Setup, Database Connectivity, Create Basic Classes, Customer Management.
 
-**DAY 10:** Day 2 of Bank Management System - Account Management(Create Account, List Account Details), Basic Error Handling(Apply Validations on Input values), Testing and Debugging(Checking Input value validations).
+## **DAY 2:** 
+### Goal: Functions and Modules
+- Concept of modules.
+- How to import and use built-in modules as well as create your own.
 
-**DAY 11:** Final Day of Project (Transfer Operations and Final Testing) - Transfer Operation, Final Testing and Documentation, Clean Up and Submission.
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/2.%20Day%202%20-%20Functions%20and%20Modules)
 
-**DAY 12:** NumPy Basics and Array Manipulation - Introduction to NumPy, Installing NumPy, Creating NumPy arrays, Array indexing and slicing, Array reshaping and resizing, Stacking and splitting arrays.
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7087466523765673984-EqXg?utm_source=share&utm_medium=member_desktop)
 
-**DAY 13:** Mathematical Operations with NumPy - Element-wise Operations, Aggregation Functions, Linear Algebra with NumPy.
+---
 
-**DAY 14:** Statistics Functions with NumPy - Descriptive statistics, Random number generation, Sorting and searching arrays.
 
+## **DAY 3:** 
+### Goal: Data Structures 
+- Python's built-in data structures such as lists, tuples, dictionaries, and sets.
+- Also, learn about indexing, slicing, and manipulating these data structures.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/3.%20Day%203%20-%20Built-in%20Data%20Structures)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7087815923100712960-tteu?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 4:** 
+### Goal: File Handling and Exception Handling 
+- Read from and write to files in Python.
+- Learn about exception handling and how to handle errors using try-except blocks.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/4.%20Day%204%20-%20File%20Handling%20and%20Exception%20Handling)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7088178312593702912-MRfz?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 5:** 
+### Goal: Python Classes and Objects  
+- Class Declaration
+- Object Instantiation
+- Constructor and Destructor
+- Built-in Class Attributes and Functions
+- Instance, Class and Static Variables and Functions.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/5.%20Day%205%20-%20Python%20Classes%20and%20Objects)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_python-classes-handwritten-notes-activity-7088540737629229056-lm0_?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 6:** 
+### Goal: Python OOPs Concepts and Implementation in Python 
+- Data Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/6.%20Day%206%20-%20OOPs%20Concepts%20Implementation%20in%20Python)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_oops-concepts-along-with-implementations-activity-7088903087058296832-38jZ?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 7:** 
+### Goal: Advanced Python Concepts 
+- Higher Order Functions
+- List Comprehensions
+- Regular Expressions (RegEx)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/7.%20Day%207%20-%20Advanced%20Topics)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_regular-expressions-in-python-hand-written-activity-7089265527155568641-XsU_?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 8:** 
+### Goal: Python Connectivity with MySQL Database 
+- Setting Up MySQL Connection
+- Executing SQL Queries.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/8.%20Day%208%20-%20Python%20MySQL)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_python-mysql-database-notes-activity-7089627864056098816-lPHI?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 9:** 
+### Goal: Day 1 of Bank Management System 
+- Database Setup
+- Python Environment Setup
+- Database Connectivity
+- Create Basic Classes
+- Customer Management.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/9.%20Day%209%20-%20Day%201%20of%20Project)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100daysofdatasciencecode-100daysofdatasciencecode-activity-7089991631885508610-sLI2?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 10:** 
+### Goal: Day 2 of Bank Management System 
+- Account Management(Create Account, List Account Details)
+- Basic Error Handling(Apply Validations on Input values)
+- Testing and Debugging(Checking Input value validations).
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20Day%202%20of%20Project)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100daysofdatasciencecode-100daysofdatasciencecode-activity-7090353209545773057-QkTM?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 11:** 
+### Goal: Final Day of Project (Transfer Operations and Final Testing) 
+- Transfer Operation
+- Final Testing and Documentation
+- Clean Up and Deployment.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20Project%20Completion)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehalbankmanagementsystempython-activity-7090715026596003840-tQZE?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 12:** 
+### Goal: NumPy Basics and Array Manipulation 
+- Introduction to NumPy
+- Installing NumPy
+- Creating NumPy arrays
+- Array indexing and slicing
+- Array reshaping and resizing
+- Stacking and splitting arrays.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20NumPy%20Basics)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy-notes-activity-7091077508925652992-4t9X?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 13:** 
+### Goal: Mathematical Operations with NumPy 
+- Element-wise Operations
+- Aggregation Functions
+- Linear Algebra with NumPy.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy-mathematical-operations-activity-7091440117076103168-wNZr?utm_source=share&utm_medium=member_desktop)
+
+---
+
+
+## **DAY 14:** 
+### Goal: Statistics Functions with NumPy  
+- Descriptive statistics
+- Random number generation
+- Sorting and searching arrays
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7091802600609644544/)
+
+---
 
