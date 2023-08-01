@@ -20,11 +20,14 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 | [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations) | [31 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) | - | - | - | - | - |
 
 
+
+
+
 ### August 2023
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | 1 | 2 | 3 | 4 | 5 |
+| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | 2 | 3 | 4 | 5 |
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -221,6 +224,22 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7091802600609644544/)
+
+---
+
+
+## **DAY 15:** 
+### Goal: Introduction to Pandas and Data Structures in Pandas  
+- Introduction to Pandas
+- Install Pandas
+- Types of Data Structures : Series, DataFrames
+- Importing and Exporting DataFrames
+- DataFrame Functions
+- Accessing DataFrames : Indexing, Slicing, loc[], iloc[].
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction)
+
+LinkedIn post: [Daily Update]()
 
 ---
 
