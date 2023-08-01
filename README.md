@@ -42,7 +42,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 ## 100 Days of Data Science Code Day-to-Day Progress
 
 
-## **DAY 1:** 
+## **DAY 1 (18 July 2023):** 
 
 ### Goal: Python Basics 
 
@@ -55,7 +55,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 ---
 
 
-## **DAY 2:** 
+## **DAY 2 (19 July 2023):** 
 ### Goal: Functions and Modules
 - Concept of modules.
 - How to import and use built-in modules as well as create your own.
@@ -67,7 +67,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 ---
 
 
-## **DAY 3:** 
+## **DAY 3 (20 July 2023):** 
 ### Goal: Data Structures 
 - Python's built-in data structures such as lists, tuples, dictionaries, and sets.
 - Also, learn about indexing, slicing, and manipulating these data structures.
@@ -79,7 +79,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 ---
 
 
-## **DAY 4:** 
+## **DAY 4 (21 July 2023):** 
 ### Goal: File Handling and Exception Handling 
 - Read from and write to files in Python.
 - Learn about exception handling and how to handle errors using try-except blocks.
@@ -91,7 +91,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 ---
 
 
-## **DAY 5:** 
+## **DAY 5 (22 July 2023):** 
 ### Goal: Python Classes and Objects  
 - Class Declaration
 - Object Instantiation
@@ -106,7 +106,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_pytho
 ---
 
 
-## **DAY 6:** 
+## **DAY 6 (23 July 2023):** 
 ### Goal: Python OOPs Concepts and Implementation in Python 
 - Data Abstraction
 - Encapsulation
@@ -120,7 +120,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_oops-
 ---
 
 
-## **DAY 7:** 
+## **DAY 7 (24 July 2023):** 
 ### Goal: Advanced Python Concepts 
 - Higher Order Functions
 - List Comprehensions
@@ -133,7 +133,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_regul
 ---
 
 
-## **DAY 8:** 
+## **DAY 8 (25 July 2023):** 
 ### Goal: Python Connectivity with MySQL Database 
 - Setting Up MySQL Connection
 - Executing SQL Queries.
@@ -145,7 +145,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_pytho
 ---
 
 
-## **DAY 9:** 
+## **DAY 9 (26 July 2023):** 
 ### Goal: Day 1 of Bank Management System 
 - Database Setup
 - Python Environment Setup
@@ -160,7 +160,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100da
 ---
 
 
-## **DAY 10:** 
+## **DAY 10 (27 July 2023):** 
 ### Goal: Day 2 of Bank Management System 
 - Account Management(Create Account, List Account Details)
 - Basic Error Handling(Apply Validations on Input values)
@@ -173,7 +173,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100da
 ---
 
 
-## **DAY 11:** 
+## **DAY 11 (28 July 2023):** 
 ### Goal: Final Day of Project (Transfer Operations and Final Testing) 
 - Transfer Operation
 - Final Testing and Documentation
@@ -186,7 +186,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 ---
 
 
-## **DAY 12:** 
+## **DAY 12 (29 July 2023):** 
 ### Goal: NumPy Basics and Array Manipulation 
 - Introduction to NumPy
 - Installing NumPy
@@ -202,7 +202,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy
 ---
 
 
-## **DAY 13:** 
+## **DAY 13 (30 July 2023):** 
 ### Goal: Mathematical Operations with NumPy 
 - Element-wise Operations
 - Aggregation Functions
@@ -215,7 +215,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy
 ---
 
 
-## **DAY 14:** 
+## **DAY 14 (31 July 2023):** 
 ### Goal: Statistics Functions with NumPy  
 - Descriptive statistics
 - Random number generation
@@ -228,7 +228,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ---
 
 
-## **DAY 15:** 
+## **DAY 15 (1 Aug. 2023):** 
 ### Goal: Introduction to Pandas and Data Structures in Pandas  
 - Introduction to Pandas
 - Install Pandas
