@@ -239,7 +239,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7092042612802543616/)
 
 ---
 
