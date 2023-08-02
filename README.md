@@ -27,7 +27,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | 2 | 3 | 4 | 5 |
+| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | 3 | 4 | 5 |
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -240,6 +240,21 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7092042612802543616/)
+
+---
+
+
+## **DAY 16 (2 Aug. 2023):** 
+### Goal: Data Manipulation and Data Aggregation using Pandas
+- Advanced Indexing and Selection - (Label-based indexing, boolean indexing, and advanced slicing)
+- Combining DataFrames - (Concatenation, merging, and joining techniques)
+- Data Manipulation
+- Advanced Data Manipulation - (reshaping data, pivoting, and melting)
+- Data Aggregation and Grouping - (groupby() and other aggregation Functions)
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7092527029388005377/)
 
 ---
 
