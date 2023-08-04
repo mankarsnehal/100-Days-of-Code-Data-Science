@@ -27,7 +27,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | 4 | 5 |
+| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | 5 |
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -274,7 +274,27 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7092889359816757249/)
+
+---
+
+
+## **DAY 18 (4 Aug. 2023):** 
+### Goal: Feature Engineering and Time Series Analysis
+
+- Feature Engineering:
+    - Data Normalization
+    - Data Scaling
+    - Data Standardization
+- Time Series Analysis and Resampling:
+    - Working with datetime data
+    - Date offsets
+    - Resampling time series data
+    - Datetime index
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7093251844948267009/)
 
 ---
 
