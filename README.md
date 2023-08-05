@@ -27,7 +27,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | 5 |
+| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
@@ -297,6 +297,36 @@ GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Cod
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7093251844948267009/)
 
 ---
+
+
+## **DAY 19 (5 Aug. 2023):** 
+### Goal: Matplotlib Introduction and Line Plots
+
+- Matplotlib:
+    - Installation of Matplotlib library
+    - Import Matplotlib library
+- Matplotlib Pyplot:
+    - Plotting x and y points
+    - Plotting without line
+    - Matplotlib Markers (Types, Color, Size)
+    - Matplotlib Line (LineStyle, Line colors, line width)
+    - Single Plot with multiple lines
+    - Matplotlib Labels and Title (Create Label, Create Title, Set font properties to Title and Label, Title Position)
+    - Adding Grid Lines (Line Properties of grid)
+- Matplotlib Bars:
+    - Vertical Bars
+    - Horizontal Bars
+    - Bar colors
+    - Bar width
+    - Bar height
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro)
+
+LinkedIn post: [Daily Update]()
+
+---
+
+
 
 
 
