@@ -388,7 +388,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7094338904178196481/)
 
 ---
 
