@@ -423,7 +423,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7094336234524745730/)
 
 ---
 
