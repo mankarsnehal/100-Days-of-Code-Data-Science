@@ -393,6 +393,41 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ---
 
 
+## **DAY 22 (8 Aug. 2023):** 
+### Goal: Seaborn Visualization Plots - Relational and Regression Plots
+
+- Customizing Seaborn Plots:
+    - Changing Figure Asthetics
+    - Removal of Spines
+    - Changing the Figure size
+    - Scaling the plots
+    - Setting the Style Temporarily
+    - Color Palette - (Diverging, Sequential, Default color palette)
+
+- Multiple Plots with Seaborn:
+    - Using Matplotlib - (add_axes(), subplot(), subplot2grid() functions)
+    - Using Seaborn - (FacetGrid() method, PairGrid() method)
+
+- Relational Plot Types:
+    - relplot()
+    - Scatter Plot
+    - Line Plot
+
+- Regression Plot Types:
+    - lmplot
+    - RegPlot
+
+- Matrix Plots:
+    - HeatMap
+    - Clustermap
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization)
+
+LinkedIn post: [Daily Update]()
+
+---
+
+
 
 
 
