@@ -28,7 +28,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
 | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
-| [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | 9 | 10 | 11 | 12 |
+| [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | 10 | 11 | 12 |
 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 | - | - |
@@ -426,6 +426,20 @@ GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Cod
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7094336234524745730/)
 
 ---
+
+
+## **DAY 23 (9 Aug. 2023):** 
+### Goal: Python Fundamentals Notes
+
+- 
+  
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision)
+
+LinkedIn post: [Daily Update]()
+
+---
+
+
 
 
 
