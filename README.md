@@ -431,11 +431,27 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
 ## **DAY 23 (9 Aug. 2023):** 
 ### Goal: Python Fundamentals Notes
 
-- 
+- Introduction
+  - Features
+  - Applications
+- Identifiers:
+  - Keywords
+  - Variables and Constants
+- Operators in python
+- Data types in python
+  - String data type and operations
+  - List data type and operations
+  - Tuple data type and operations
+  - Set data type and operations
+  - Dictionary data type and operations
+- Control Statements in python:
+  - Decision making
+  - looping statements
+  - looping control statements
   
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7095063679980773376/)
 
 ---
 
