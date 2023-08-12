@@ -14,6 +14,15 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 <img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/data_science.jpg" height = "500">
 
+---
+
+## Articles Published on LinkedIn
+
+- [Bank Management System: Python, OOPS, and MySQL Database](https://www.linkedin.com/pulse/bank-management-system-python-oops-mysql-database-snehal-mankar/?trackingId=0d%2B0uy4aRkWLiRNEgtWfMA%3D%3D)
+
+- [Successful Completion of 25 Days in 100 Days of Data Science Code](https://www.linkedin.com/pulse/successful-completion-25-days-100-data-science-code-snehal-mankar/?trackingId=0d%2B0uy4aRkWLiRNEgtWfMA%3D%3D)
+
+
 
 ---
 
