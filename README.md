@@ -1,5 +1,16 @@
-# 100-Days-of-Code-Data-Science
-Starting a 100 Days Code Challenge for Learning Data Science from Scratch
+<h1 align="center">100 Days of Code Data Science</h1>
+
+Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my goal on Learning Data Science in Machine Learning by:
+  - Learning Fundamentals of Python
+  - Python Libraries for Data Science
+  - Data Manipulation and Preprocessing
+  - Machine Learning Basics
+  - Advanced Machine Learning Techniques
+  - Deep Learning and Neural Networks
+  - Model Evaluation and Deployment
+  - Data Science Project and Wrap-Up
+
+---
 
 <img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/data_science.jpg" height = "500">
 
@@ -39,7 +50,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch
 ---
 
 
-## 100 Days of Data Science Code Day-to-Day Progress
+<h1 align="center">100 Days of Data Science Code Day-to-Day Progress</h1>
 
 
 ## **DAY 1 (18 July 2023):** 
@@ -525,7 +536,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
     - Supervised Learning
     - Unsepervised Learning
     - Reinforcement Learning
-    - Comparisons between all types
+  - Comparisons between all types
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals)
 
