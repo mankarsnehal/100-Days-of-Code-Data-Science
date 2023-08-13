@@ -49,7 +49,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | - | - | - | - | - | - | - |
 | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
 | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals) |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | 14 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 | - | - |
 
@@ -548,6 +548,38 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   - Comparisons between all types
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7096150733347069952/)
+
+---
+
+
+## **DAY 27 (13 Aug 2023):** 
+### Goal: Understanding Machine Learning Workflow
+
+<img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/27.%20Day%2027%20-%20ML%20Workflow/Machine_Learning_Workflow_page-0001.jpg" height = "750">
+
+- **1. Data Preprocessing:**
+  - Data Cleaning
+  - Feature Selection/Extraction
+  - Normalization/Scaling
+  - Encoding Categorical Variables
+  - Splitting Data
+- **2. Model Training:**
+  - Selecting a Model
+  - Initializing Parameters
+  - Training Loop
+  - Gradient Descent (for Optimization)
+  - Hyperparameter Tuning
+- **3. Model Evaluation:**
+  - Metrics
+  - Cross-Validation
+  - Confusion Matrix
+  - ROC and AUC
+  - Overfitting and Underfitting
+
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow)
 
 LinkedIn post: [Daily Update]()
 
