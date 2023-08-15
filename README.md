@@ -624,7 +624,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7097238007765696512/)
 
 ---
 
