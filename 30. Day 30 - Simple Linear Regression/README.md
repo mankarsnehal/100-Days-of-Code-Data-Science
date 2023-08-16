@@ -12,7 +12,7 @@
 
 ---
 
-<img src="">
+<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/download.png" width="500px">
 
 ---
 
