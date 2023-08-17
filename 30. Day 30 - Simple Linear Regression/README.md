@@ -1,3 +1,9 @@
+<h1 align="center">Simple Linear Regression</h1>
+
+<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/SLR%20Implementation.jpg" height="750px">
+
+---
+
 # **Linear Regression**
 
 **Supervised machine learning algorithms:** It is a type of machine learning, where the algorithm learns from labeled data.  
