@@ -49,7 +49,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | - | - | - | - | - | - | - |
 | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
 | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals) |
-| [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | 18 | 19 |
+| [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML) | 19 |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 | - | - |
 
@@ -663,6 +663,48 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7097962901692383232/)
+
+---
+
+
+## **DAY 32 (18 Aug 2023):** 
+### Goal: Classification in  Machine Learning
+
+- Classification
+- Types of Learners:
+  - Lazy Learners: Firstly, store dataset and wait until receive test dataset.
+  - Eager Learner: Develop classification model based on training dataset, before receiving testing dataset.
+
+- Types of Classification Algorithms:
+  - Logistic Regression
+  - Decision Trees
+  - Random Forest
+  - Support Vector Machines (SVM)
+  - K-Nearest Neighbors (KNN)
+  - Naive Bayes
+  - Neural Networks
+
+- Terminologies in Classification:
+  - Features and Labels
+  - Training and Testing Data
+  - Confusion Matrix
+  - Precision, Recall, F1-Score
+  - ROC and AUC Curve
+
+- Types of Classification:
+  - Binary Classification: Two classes (e.g., Yes/No)
+  - Multiclass Classification: Multiple distinct classes (e.g., Cat/Dog/Horse)
+
+- Models' Evaluation Techniques for Classification: Used for finding goodness of model's fit:
+  - Accuracy
+  - Precision and Recall
+  - F1-Score
+  - ROC Curve and AUC
+  - Confusion Matrix
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7098335810092974080/)
 
 ---
 
