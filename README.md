@@ -49,7 +49,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | - | - | - | - | - | - | - |
 | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
 | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals) |
-| [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML) | 19 |
+| [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression) |
 | 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 31 | - | - |
 
@@ -705,6 +705,27 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7098335810092974080/)
+
+---
+
+
+## **DAY 33 (19 Aug 2023):** 
+### Goal: Logistic Regression Implementation
+
+- Logistic Regression:
+  - Logistic Function (Sigmoid Function)
+  - Assumptions of Logistic Regression
+  - Types of Logistic Regression:
+    - Binary / Binomial
+    - Multinomial
+    - Ordinal
+  - Terminologies involved in Logistic Regression
+  - Implementation of Logistic Regression
+- Difference between Linear Regression and Logistic Regression
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression)
+
+LinkedIn post: [Daily Update]()
 
 ---
 
