@@ -766,7 +766,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/35.%20Day%2035%20-%20Decision%20Tree%20Implementation)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7099412341611466757/)
 
 ---
 
