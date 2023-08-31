@@ -51,7 +51,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals) |
 | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression) |
 | [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/34.%20Day%2034%20-%20Decision%20Tree%20Concept) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/35.%20Day%2035%20-%20Decision%20Tree%20Implementation) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/36.%20Day%2036%20-%20Ensemble%20Methods) | [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/37.%20Day%2037%20-%20Gradient%20Boosting) | [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/38.%20Day%2038%20-%20AdaBoost%20and%20XGBoost) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/39.%20Day%2039%20-%20Random%20Forests%20Introduction) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation) |
-| [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/41.%20Day%2041%20-%20Decision%20Tree%20and%20Random%20Forest%20Example) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/42.%20Day%2042%20-%20SVM%20Intro) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/43.%20Day%2043%20-%20Linear%20and%20Non-Linear%20SVM%20Implementation) | [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation) | 31 | - | - |
+| [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/41.%20Day%2041%20-%20Decision%20Tree%20and%20Random%20Forest%20Example) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/42.%20Day%2042%20-%20SVM%20Intro) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/43.%20Day%2043%20-%20Linear%20and%20Non-Linear%20SVM%20Implementation) | [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation) | [31 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction) | - | - |
 
 
 
@@ -910,6 +910,24 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7102673932947750912/)
+
+---
+
+
+## **DAY 45 (31 Aug 2023):** 
+### Goal: Introduction to KNN
+
+- KNN Introduction
+- Distance Metrics:
+  - Euclidean Distance
+  - Manhatten Distance
+  - Minkowski Distance
+- How KNN works
+- How to choose value of 'K'
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction)
+
+LinkedIn post: [Daily Update]()
 
 ---
 
