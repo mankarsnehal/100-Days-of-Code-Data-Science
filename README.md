@@ -60,7 +60,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | - | - | - | 1 | 2 |
+| - | - | - | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
@@ -941,7 +941,39 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103106780741677056/)
+
+---
+
+
+## **DAY 46 (1 Sept 2023):** 
+### Goal: KNN Implementation
+
+- KNN Classification:
+  - IRIS Flower Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-classification-iris-flower)
+  - Mushroom Clasification : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-classification-mushroom-classification)
+- KNN Regression:
+  - Employee Salary Prediciton : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-regression-salary-dataset)
+  - Student Performance Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-regression-student-performance-prediction)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103399019510407169/)
+
+---
+
+
+## **DAY 47 (2 Sept 2023):** 
+### Goal: KNN Hyperparameter Tuning
+
+- KNN Regression:
+  - House Price Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-regr-house-price-prediction-hyperparameter/notebook)
+- KNN Classification:
+  - BMI Classification : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-clf-bmi-classification-hyperparameter/notebook)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103761143017484288/)
 
 ---
 
