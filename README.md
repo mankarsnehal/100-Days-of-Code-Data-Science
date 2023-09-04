@@ -61,7 +61,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
 | - | - | - | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| [3 ](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | 5 | 6 | 7 | 8 | 9 |
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
@@ -979,6 +979,30 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103761143017484288/)
+
+---
+
+
+## **DAY 48 (3 Sept 2023):** 
+### Goal: ML Fundamentals Revision
+
+- 
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104313327727648768/)
+
+---
+
+
+## **DAY 47 (2 Sept 2023):** 
+### Goal: 5G Resource Allocation Capstone Project - MLR, SVR and KNN Regression Models
+
+- 
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104489460968415232/)
 
 ---
 
