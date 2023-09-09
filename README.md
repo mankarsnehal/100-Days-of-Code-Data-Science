@@ -22,6 +22,8 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 - 25 days Completion: [Successful Completion of 25 Days in 100 Days of Data Science Code](https://www.linkedin.com/pulse/successful-completion-25-days-100-data-science-code-snehal-mankar/?trackingId=0d%2B0uy4aRkWLiRNEgtWfMA%3D%3D)
 
+- 50 days Completion : [Successful Completion of 50 Days in 100 Days of Data Science Code](https://www.linkedin.com/pulse/successful-completion-50-days-100-data-science-code-snehal-mankar/?trackingId=xZXNT41zZnyAAkH9WxCQSQ%3D%3D)
+
 
 
 ---
