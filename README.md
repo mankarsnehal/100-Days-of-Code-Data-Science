@@ -61,7 +61,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
 | - | - | - | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
-| [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | 5 | 6 | 7 | 8 | 9 |
+| [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
@@ -986,7 +986,16 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 48 (3 Sept 2023):** 
 ### Goal: ML Fundamentals Revision
 
-- 
+- What is AI
+- What is ML
+- Machine Learning
+- Model Evaluation Techniques in ML
+  - Classification: Accuracy Score, Confusion Matrix, Classification Report
+  - Regression: Mean Absolute Errors,Mean Square Errors, Root Mean Square Errors
+- Exploratory Data Analysis (EDA)
+- Handling Outliers
+  - Removing Outliers
+  - Transforming Values
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision)
 
@@ -995,14 +1004,126 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ---
 
 
-## **DAY 47 (2 Sept 2023):** 
+## **DAY 49 (4 Sept 2023):** 
 ### Goal: 5G Resource Allocation Capstone Project - MLR, SVR and KNN Regression Models
 
-- 
+- Resource Allocation in 5G Network Service Project:
+  - Data Pre-Processing
+  - Implementation:
+    - Polynomial Regression
+    - SVM Regression
+    - KNN Regression
+  - Model Evaluation:
+    1. Mean Absolute Errors
+    2. Mean Square Errors
+    3. Root Mean Square Errors
+  - Kaggle Notebook : [Link to Notebook](https://www.kaggle.com/code/snehalsanjaymankar/5g-quality-of-service-mlr-svr-and-knn-regr)
+  - Comparison of Model Performances (Multiple Bar Charts)
+
+<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R/compare_MLR_SVR_KNN.png">
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104489460968415232/)
+
+---
+
+
+## **DAY 50 (5 Sept 2023):** 
+### Goal: Capstone Project - Gender Classification - LR, DT, RF, SVM and KNN
+
+- Gender Classification Project:
+  - Data Pre-Processing
+  - Implementation:
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+    - SVM Classification
+    - KNN Classification
+  - Model Evaluation:
+    1. Accuracy Score
+    2. Confusion Matrix
+    3. Classification Report
+  - Kaggle Notebook : [Link to Notebook](https://www.kaggle.com/code/snehalsanjaymankar/gender-classification-lr-dt-rf-svm-and-knn)
+  - Comparison of Model Performances (Bar Chart)
+
+<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN/Compare_LR_DT_RF_SVM_KNN.png">
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104821236236496896/)
+
+---
+
+
+## **DAY 51 (6 Sept 2023):** 
+### Goal: Introduction to Cross-Validation
+
+- Introduction to Cross-Validation
+- What is Cross Validation
+- Why is Cross Validation Important
+- Advantages of Cross Validation
+- Limitations of Cross Validation
+- Types of Cross-Validation:
+  - Leave-One-Out Cross-Validation (LOOCV)
+  - Leave-P-Out Cross Validation (LPOCV)
+  - K-Fold Cross-Validation
+  - Stratified K-Fold Cross-Validation
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7105295672366510080/)
+
+---
+
+
+## **DAY 52 (7 Sept 2023):** 
+### Goal: Cross-Validation Implementation
+
+- K-Fold Cross-Validation : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/k-fold-cross-validation)
+
+- Stratified K-Fold Cross-Validation : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/stratified-k-fold-cross-validation)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7105572155865600001/)
+
+---
+
+
+## **DAY 53 (8 Sept 2023):** 
+### Goal: Perform EDA Operation on Different Datasets
+
+- EDA on Walmart Dataset : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/eda-on-walmart-sales-dataset/notebook)
+
+- EDA on Fifa 19 Dataset : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/eda-on-fifa19-dataset/notebook)
+
+- EDA on Restaurant Dataset : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/eda-on-restaurant-dataset/notebook)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7105942680144125953/)
+
+---
+
+## **DAY 54 (9 Sept 2023):** 
+### Goal: Introduction to Dimensionality Reduction
+
+- The Curse of Dimensionality
+- The Importance of Dimensionality Reduction
+- Dimensionality Reduction Techniques:
+  - Feature Selection
+  - Feature Extraction
+  - Dimension Reduction
+
+<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro/Dimensionality%20Reduction%20Techniques_pages-to-jpg-0001.jpg">
+
+- Advantages of Dimensionality Reduction
+- Limitations of Dimensionality Reduction
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7106309456954580992/)
 
 ---
 
