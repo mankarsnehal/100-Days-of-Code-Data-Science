@@ -64,7 +64,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | - | - | - | - | - | - | - |
 | - | - | - | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
 | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
@@ -1108,6 +1108,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 ---
 
+
 ## **DAY 54 (9 Sept 2023):** 
 ### Goal: Introduction to Dimensionality Reduction
 
@@ -1126,6 +1127,69 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7106309456954580992/)
+
+---
+
+
+## **DAY 55 (10 Sept 2023):** 
+### Goal: Introduction to Principal Component Analysis (PCA)
+
+- Some common terms used in PCA algorithm
+- Uses of PCA
+- Advantages of Principal Component Analysis
+- Limitations of Principal Component Analysis
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7106652030781300736/)
+
+---
+
+
+## **DAY 56 (11 Sept 2023):** 
+### Goal: Steps in PCA (Principal Component Analysis)
+
+- Step 1 : Covariance Matrix Computation
+- Step 2 : Compute Eigenvalues and Eigenvectors of Covariance Matrix to Identify Principal Components
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107037307613949952/)
+
+---
+
+
+## **DAY 57 (12 Sept 2023):** 
+### Goal: Solve Example of PCA
+
+- Pre-processed Data
+- Calculated Covariance Matrix
+- Eigenvalues and Eigenvectors
+- Sorted Eigenvalues
+- Select Principal Components
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107376433236238339/)
+
+---
+
+
+## **DAY 58 (13 Sept 2023):** 
+### Goal: PCA Implementation using Scikit-Learn
+
+- Data Preparation
+- Importing Scikit-learn
+- Standardization
+- PCA Implementation
+- Explained Variance
+- Dimensionality Reduction
+- Visualization
+- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/principal-component-analysis)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107751713779953664/)
 
 ---
 
