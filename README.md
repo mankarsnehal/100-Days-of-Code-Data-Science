@@ -64,7 +64,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | - | - | - | - | - | - | - |
 | - | - | - | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
 | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
-| [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | 14 | 15 | 16 |
+| [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods) | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
@@ -1190,6 +1190,72 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107751713779953664/)
+
+---
+
+
+## **DAY 59 (14 Sept 2023):** 
+### Goal: Introduction to Feature Selection
+
+<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro/Feature%20selection.png">
+
+- What is Feature Selection?
+- Why is Feature Selection Necessary?
+- Techniques in Feature Selection
+  - Univariate feature selection
+  - Feature importance from tree-based models
+  - Recursive Feature Elimination (RFE)
+  - L1-based feature selection
+  - Correlation-based feature selection
+- Steps in Feature Selection:
+  - Data Pre-Processing
+  - Feature Scoring
+  - Feature Selection
+- Advantages of Feature Selection:
+  - Improved model performance
+  - Faster training and prediction
+  - Enhanced model interpretability
+  - Reduced risk of overfitting
+  - Easier visualization of data
+- Limitations of Feature Selection:
+  - It may result in information loss.
+  - It can be challenging to decide which features to select.
+  - Some methods might not work well for all types of data.
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7108098856667467776/)
+
+---
+
+
+## **DAY 60 (15 Sept 2023):** 
+### Goal: Feature Selection : Filter Methods
+
+- Introduction to Filter Methods
+- Steps in Filter Methods:
+  1. Data Pre-Processing
+  2. Feature Scoring
+  3. Feature Selection
+- Common Techniques in Filter Methods:
+  1. Correlation-based Feature Selection
+  2. Information Gain
+  3. Chi-square Test
+  4. Fisher's Score
+  5. Missing Value Ratio
+- Advantages of Filter Methods:
+  1. Simplicity
+  2. Speed
+  3. Independence
+- Limitations of Filter Methods:
+  1. Independence
+  2. Suboptimal Results
+
+- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/feature-selection-filter-methods/edit/run/143077129)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7108472658224123905/)
 
 ---
 
