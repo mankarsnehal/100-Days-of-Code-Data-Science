@@ -1284,6 +1284,28 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods)
 
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7108834424695238656/)
+
+---
+
+
+## **DAY 62 (17 Sept 2023):** 
+### Goal: Feature Selection : Wrapper Methods
+
+- Introduction to Wrapper Methods
+- Steps in Wrapper Methods:
+  1. 
+- Common Techniques in Wrapper Methods:
+  1. 
+- Advantages of Wrapper Methods:
+  1. 
+- Limitations of Wrapper Methods:
+  1. 
+
+- [Kaggle Notebook]()
+
+GitHub Repository: [Source Code]()
+
 LinkedIn post: [Daily Update]()
 
 ---
