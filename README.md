@@ -66,7 +66,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
 | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods) |
 | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/62.%20Day%2062%20-%20Feature%20Selection%20-%20Embedded%20Methods) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/63.%20Day%2063%20-%20EDA%20on%20IPL%20Dataset) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/64.%20Day%2064%20-%20Used%20Car%20Price%20Prediction%20using%20SVR) | [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/65.%20Day%2065%20-%20Movies%20Recommendation) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/66.%20Day%2066%20-%20SLR%20on%20Insurance%20Dataset) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/67.%20Day%2067%20-%20Linear%20Regression%20Salary%20Dataset) | [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/68.%20Day%2068%20-%20EDA%20on%20Gym%20Exercise%20Dataset) |
-| [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout) | 26 | 27 | 28 | 29 | 30 |
+| [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering) | 27 | 28 | 29 | 30 |
 
 
 
@@ -1481,6 +1481,26 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout)
 
 LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7112120956935925760/)
+
+---
+
+
+
+## **DAY 71 (26 Sept 2023):** 
+### Goal: Introduction to Clustering in ML
+
+- Intro to Clustering
+- Types of Clustering:
+  1. Partitioning Clustering
+  2. Density-Based Clustering
+  3. Distribution Model-Based Clustering
+  4. Hierarchical Clustering
+  5. Fuzzy Clustering
+
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering)
+
+LinkedIn post: [Daily Update]()
 
 ---
 
