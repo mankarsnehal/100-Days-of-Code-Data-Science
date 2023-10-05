@@ -66,7 +66,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
 | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods) |
 | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/62.%20Day%2062%20-%20Feature%20Selection%20-%20Embedded%20Methods) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/63.%20Day%2063%20-%20EDA%20on%20IPL%20Dataset) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/64.%20Day%2064%20-%20Used%20Car%20Price%20Prediction%20using%20SVR) | [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/65.%20Day%2065%20-%20Movies%20Recommendation) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/66.%20Day%2066%20-%20SLR%20on%20Insurance%20Dataset) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/67.%20Day%2067%20-%20Linear%20Regression%20Salary%20Dataset) | [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/68.%20Day%2068%20-%20EDA%20on%20Gym%20Exercise%20Dataset) |
-| [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering) | 27 | 28 | 29 | 30 |
+| [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering) | [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/72.%20Day%2072%20-%20Clustering%20Algorithms) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/73.%20Day%2073%20-%20K-means%20Implementation) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/74.%20Day%2074%20-%20K-Means%20Credit%20Card%20Clustering) | [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/75.%20Day%2075%20-%20Visualize%20Clusters%20Exercise) |
 
 
 
@@ -74,8 +74,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 ### October 2023
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
-| - | - | - | - | - | - | - |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering) | 3 | 4 | 5 | 6 | 7 |
 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
@@ -1503,9 +1502,114 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering)
 
-LinkedIn post: [Daily Update]()
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7112458309189709825/)
 
 ---
+
+
+
+## **DAY 72 (27 Sept 2023):** 
+### Goal: Clustering Algorithms in Machine Learning
+- Commonly Used Clustering Algorithms:
+  - K-means Algorithm
+  - Hierarchical Clustering
+  - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+  - Agglomerative Clustering
+  - Gaussian Mixture Model (GMM)
+- Applications of Clustering:
+  - Customer Segmentation
+  - Image Compression
+  - Anomaly Detection
+  - Document Classification
+- Advantages of Clustering:
+  - Pattern Discovery
+  - Data Reduction
+  - Scalability
+  - Interpretability
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/72.%20Day%2072%20-%20Clustering%20Algorithms)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7112820687731367937/)
+
+---
+
+
+## **DAY 73 (28 Sept 2023):** 
+### Goal: Implementing K-means Clustering
+
+- K-means Clustering:
+  - Initialization
+  - Assignment
+  - Update Centroids
+  - Repeat
+- Customer Clustering : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/k-means-customer-clustering/notebook)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/73.%20Day%2073%20-%20K-means%20Implementation)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7113169315230609410/)
+
+---
+
+
+## **DAY 74 (29 Sept 2023):** 
+### Goal: K-means Clustering Implementation
+
+- K-means Clustering:
+  - Initialization
+  - Assignment
+  - Update Centroids
+  - Repeat
+- Credit Card Clustering : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/k-means-credit-card-clustering/notebook)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/74.%20Day%2074%20-%20K-Means%20Credit%20Card%20Clustering)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7113928501614776320/)
+
+---
+
+
+## **DAY 75 (30 Sept 2023):** 
+### Goal: Visualizing Clusters Distribution for 30 Datasets
+
+- Visualize Clustering Exercises : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/visualize-clustering-exercises/notebook)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/75.%20Day%2075%20-%20Visualize%20Clusters%20Exercise)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7114165821760794624/)
+
+---
+
+
+## **DAY 76 (1 Oct 2023):** 
+### Goal: Hierarchical Clustering Implementation
+
+- Online Retail Clustering : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/online-retail-k-means-hierarchical-clustering)
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7114639803849035776/)
+
+---
+
+
+## **DAY 77 (2 Oct 2023):** 
+### Goal: Hierarchical Clustering Concepts
+
+- What Can We Achieve with Hierarchical Clustering:
+  - Hierarchical Insights
+  - Data Exploration
+  - Decision Support
+
+GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering)
+
+LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7115016137569923073/)
+
+---
+
+
+
+
+
 
 
 
