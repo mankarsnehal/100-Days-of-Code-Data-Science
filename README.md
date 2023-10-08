@@ -74,6 +74,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 ### October 2023
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
+| - | - | - | - | - | - | - |
 | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering) | 3 | 4 | 5 | 6 | 7 |
 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
