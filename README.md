@@ -10,7 +10,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
   - Model Evaluation and Deployment
   - Data Science Project and Wrap-Up
 
----
+
 
 <img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/data_science.jpg" height = "500">
 
