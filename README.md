@@ -2,6 +2,7 @@
 
 
 
+
 Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my goal on Learning Data Science in Machine Learning by:
   - Learning Fundamentals of Python
   - Python Libraries for Data Science
